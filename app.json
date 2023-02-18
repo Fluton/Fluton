@@ -1,7 +1,7 @@
 {
-    "name": "Mikthon",
+    "name": "Fluton",
     "description": " اهلا بكم في تنصيب سورس صيد اليوزرات !",
-    "logo" : "https://graph.org/file/dead0e9a6bc000eff2b2d.jpg",
+    "logo" : "https://graph.org/file/7bd7ba38fe8b40b6f74bc.jpg",
     "stack": "container",
     "repository": "https://github.com/Mikthon/FQ_YQ",
     "keywords": [
