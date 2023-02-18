@@ -1,9 +1,9 @@
 {
     "name": "Fluton",
     "description": " اهلا بكم في تنصيب سورس صيد اليوزرات !",
-    "logo" : "https://graph.org/file/7bd7ba38fe8b40b6f74bc.jpg",
+    "logo" : "https://graph.org/file/ad5c8305f2a740e004ed5.jpg",
     "stack": "container",
-    "repository": "https://github.com/Mikthon/FQ_YQ",
+    "repository": "https://github.com/Fluton/Fluton",
     "keywords": [
         "python",
         "chatbot",
