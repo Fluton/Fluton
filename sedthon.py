@@ -570,7 +570,7 @@ async def _(event):
     end = datetime.datetime.now()
     ms = (end - start).microseconds / 1000
     await event.edit(f'''
-**߷ Mikthon Source
+**߷ Fluton Source
 ߷ الاصدار : 1.3
 ߷ البنك : `{ms}`
 ߷ التاريخ : `{m9zpi}`
